@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace lab_one
 {
@@ -7,6 +7,7 @@ namespace lab_one
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+			Console.WriteLine("We are back in business");
         }
     }
 }
