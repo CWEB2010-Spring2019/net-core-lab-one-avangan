@@ -1,0 +1,6 @@
+C:\Users\kozjohn\Desktop\t1\t1\obj\Debug\t1.csproj.CoreCompileInputs.cache
+C:\Users\kozjohn\Desktop\t1\t1\bin\Debug\t1.exe.config
+C:\Users\kozjohn\Desktop\t1\t1\bin\Debug\t1.exe
+C:\Users\kozjohn\Desktop\t1\t1\bin\Debug\t1.pdb
+C:\Users\kozjohn\Desktop\t1\t1\obj\Debug\t1.exe
+C:\Users\kozjohn\Desktop\t1\t1\obj\Debug\t1.pdb
